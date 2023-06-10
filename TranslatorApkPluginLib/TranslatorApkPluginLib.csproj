@@ -4,14 +4,14 @@
     <OutputType>Library</OutputType>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>And42.TranslatorApkPluginLib</PackageId>
-    <Version>1.1.0.0</Version>
+    <Version>1.1.0.1</Version>
     <Title>TranslatorApkPluginLib</Title>
     <Authors>Andrey Skobtsov</Authors>
     <Description>Library to use when creating TranslatorApk plugins</Description>
     <Copyright>Andrey Skobtsov</Copyright>
     <Company>Andrey Skobtsov</Company>
-    <AssemblyVersion>1.1.0.0</AssemblyVersion>
-    <FileVersion>1.1.0.0</FileVersion>
+    <AssemblyVersion>1.1.0.1</AssemblyVersion>
+    <FileVersion>1.1.0.1</FileVersion>
     <PackageProjectUrl>https://github.com/And42/TranslatorApkPluginLib</PackageProjectUrl>
     <RepositoryUrl>https://github.com/And42/TranslatorApkPluginLib</RepositoryUrl>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
