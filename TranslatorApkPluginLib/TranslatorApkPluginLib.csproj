@@ -14,6 +14,7 @@
     <FileVersion>1.1.0.0</FileVersion>
     <PackageProjectUrl>https://github.com/And42/TranslatorApkPluginLib</PackageProjectUrl>
     <RepositoryUrl>https://github.com/And42/TranslatorApkPluginLib</RepositoryUrl>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DocumentationFile>bin\Release\TranslatorApkPluginLib.XML</DocumentationFile>
@@ -21,4 +22,8 @@
   <PropertyGroup>
     <AssemblyOriginatorKeyFile></AssemblyOriginatorKeyFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../LICENSE.txt" Pack="true" PackagePath="" />
+  </ItemGroup>
 </Project>
